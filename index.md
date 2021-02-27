@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-#Biography
+# Biography
 Wei Lan is a Lecturer (a.k.a. Assistant Professor) in Guangxi University. I received his Ph.D degree in computer science from Central South University, China. His research interests include Bioinformatics, data mining and machine learning.
 
 ### Markdown
