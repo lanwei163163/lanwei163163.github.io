@@ -58,10 +58,15 @@ Wei Lan is a Lecturer in Guangxi University. I received his Ph.D degree in compu
 # PROFESSIONAL ACTIVITY
 ## Editorial Board Member
 Frontiers in Bioscience-Landmark (2021-present)
+
 BioMed Research International (2020-present)
+
 Current Chinese Science (2020-present)
+
 International Journal of Bioinformatics and Computational Biology (2018-present)
+
 International Journal of Genetics and Genomics (2018-present)
+
 Journal of Autonomous Intelligence (2017-present)
 ## Guest Editor
 Frontiers in Genetics (2020)
