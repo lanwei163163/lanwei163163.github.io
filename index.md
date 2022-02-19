@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Pages
 
 # Biography
-Wei Lan is a Lecturer in Guangxi University. I received his Ph.D degree in computer science from Central South University, China. His research interests include Bioinformatics, data mining and machine learning.
+Wei Lan is a Associate Professor in Guangxi University. I received his Ph.D degree in computer science from Central South University, China. His research interests include Bioinformatics, data mining and machine learning.
 
 # Research Grants
 1. Identifying CircRNA-Cancer interactions based on Multiple Omics data fusion, $80K, 2021-2024, supported by National Natural Science Foundation of China
@@ -56,6 +56,8 @@ Wei Lan is a Lecturer in Guangxi University. I received his Ph.D degree in compu
 
 
 # PROFESSIONAL ACTIVITY
+## Associate Editor
+Frontiers in Genetics (2020)
 ## Editorial Board Member
 Frontiers in Bioscience-Landmark (2021-present)
 
@@ -71,7 +73,7 @@ Journal of Autonomous Intelligence (2017-present)
 ## Guest Editor
 Frontiers in Genetics (2020)
 ## Program committee member
- BIBM 2020, CBC2020, ICYCSEE 2020, BIBM 2019, CBC2019, ICYCSEE 2019, CBC2018, BIBM 2018, ISBRA2018, ICYCSEE  2018
+BIBM2021, BIIP2021, CBC2021, BIBM 2020, CBC2020, ICYCSEE 2020, BIBM 2019, CBC2019, ICYCSEE 2019, CBC2018, BIBM 2018, ISBRA2018, ICYCSEE  2018
 ## Reviewer
 Briefings in Bioinformatics, PLOS Computational Biology,  Bioinformatics, ACM/IEEE Transactions on Computational Biology and Bioinformatics, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Nanobioscience, IEEE Access, Frontiers in Genetics, BMC Bioinformatics, Computational and Structural Biotechnology Journal, Entropy, PLOS One, Cellular Physiology and Biochemistry, International Journal of Data Mining and Bioinformatics, Biomedical research international, Current bioinformatics, Interdisciplinary Sciences - Computational Life Sciences, Journal of Computer Science and Technology
 
