@@ -94,19 +94,29 @@ Briefings in Bioinformatics, PLOS Computational Biology,  Bioinformatics, ACM/IE
 
 # Group
 ## Current members
-Mingyang Liu (2021)
-Weihao Zhou (2021)
-Haibo Liao (2021)
-Chunling Li (2021)
+Mingyang Liu (2021) 
+
+Weihao Zhou (2021) 
+
+Haibo Liao (2021) 
+
+Chunling Li (2021) 
+
 Wenguang Wang (2020)
+
 Hongyu Zhang(2020)
+
 Tianchuan Yang(2020)
+
 Xun Sun (2020)
+
 Jianwei Chen (2019)
+
 Yi Dong (2019)
 
 ## Former members
 Mingrui Zhu (2018)
+
 Ximin Wu (2018)
 
 # Contact
