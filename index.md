@@ -122,7 +122,7 @@ ATAITS (2018)
 ## Program committee member
 BIBM2023, BIIP2023, CBC2023, IHB2023, NCCBB2023, ICAI2023, ECT2023, BIBM2022, BIIP2022, CBC2022, IHB2022, NCCBB2022, BIBM2021, BIIP2021, CBC2021, BIBM 2020, CBC2020, ICYCSEE 2020, BIBM 2019, CBC2019, ICYCSEE 2019, CBC2018, BIBM 2018, ISBRA2018, ICYCSEE2018
 ## Reviewer
-Briefings in Bioinformatics, PLOS Computational Biology,  Bioinformatics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on cybernetics, ACM/IEEE Transactions on Computational Biology and Bioinformatics, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Nanobioscience, IEEE Access, Frontiers in Genetics, BMC Bioinformatics, Computational and Structural Biotechnology Journal, Entropy, PLOS One, Cellular Physiology and Biochemistry, International Journal of Data Mining and Bioinformatics, Biomedical research international, Current bioinformatics, Interdisciplinary Sciences - Computational Life Sciences, Journal of Computer Science and Technology
+Briefings in Bioinformatics, PLOS Computational Biology,  Bioinformatics, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on cybernetics, ACM/IEEE Transactions on Computational Biology and Bioinformatics, IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Nanobioscience, BMC Bioinformatics, Computational and Structural Biotechnology Journal, Cellular Physiology and Biochemistry, International Journal of Data Mining and Bioinformatics, Current bioinformatics, Interdisciplinary Sciences - Computational Life Sciences, Journal of Computer Science and Technology
 
 # Group
 ## Current members
